@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
+    title: `Gatsby Luis Velazquez Blog`,
     description: `ITDEV-164 Gatsby Blog.`,
     author: `Luis Velazquez Camarena`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
@@ -12,6 +12,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
