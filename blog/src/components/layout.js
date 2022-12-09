@@ -1,7 +1,7 @@
 /**
  * Layout component that queries for data
  * with Gatsby's useStaticQuery component
- *
+ * Added to check github implementation
  * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
  */
 
