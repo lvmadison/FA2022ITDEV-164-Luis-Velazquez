@@ -1,7 +1,7 @@
 /**
  * Layout component that queries for data
  * with Gatsby's useStaticQuery component
- *
+ * Added to check github implementation
  * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
  */
 
@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import styled from 'styled-components'
 
 import { Gray } from './themes/Gray'
-import Header from "./header"
+import Header from "./Header"
 import "./layout.css"
 
 const Content = styled.div`
